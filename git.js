@@ -1,2 +1,3 @@
-let x=01;
+let x=1;
 console.log(x);
+bbkkk
